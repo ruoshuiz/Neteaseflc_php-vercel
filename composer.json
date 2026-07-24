@@ -3,5 +3,10 @@
   "description": "Netease Music API for Vercel",
   "require": {
     "php": ">=7.4"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "echo 'PHP installed'"
+    ]
   }
 }
