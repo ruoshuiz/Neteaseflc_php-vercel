@@ -1,0 +1,7 @@
+{
+  "name": "netease-music-api",
+  "description": "Netease Music API for Vercel",
+  "require": {
+    "php": ">=7.4"
+  }
+}
